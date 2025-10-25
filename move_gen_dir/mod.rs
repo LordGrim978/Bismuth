@@ -1,0 +1,9 @@
+pub mod knight_move_gen;
+pub mod pawn_move_gen;
+pub mod precomputed_magics;
+pub mod check_mask;
+pub mod king_move_gen;
+pub mod rook_table_const;
+pub mod bishop_table_const;
+pub mod move_gen;
+pub mod move_gen_tests;
